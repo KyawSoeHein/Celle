@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "646091337908",
+    "firebase_url": "https://celle-5cbc0.firebaseio.com",
+    "project_id": "celle-5cbc0",
+    "storage_bucket": "celle-5cbc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646091337908:android:3853292b57123b700da7e1",
+        "android_client_info": {
+          "package_name": "com.celle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646091337908-gjh2g22burtsrmpgt68gc0bisjicol03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celle",
+            "certificate_hash": "459cbe79500fbd34cb053be64facc95348dc8fd9"
+          }
+        },
+        {
+          "client_id": "646091337908-cbcn6qao7uiao8q5fdtqi7cscd3blqn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYP3vnkKKbUCKfzilpfUmGFGsqEVDiVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646091337908-cbcn6qao7uiao8q5fdtqi7cscd3blqn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
